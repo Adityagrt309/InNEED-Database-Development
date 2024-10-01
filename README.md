@@ -27,7 +27,7 @@ Each table is structured with appropriate data types and relationships to ensure
 
 ### ER Diagram
 Include the ER diagram image (optional):
-![ER Diagram](path_to_your_ER_diagram_image)
+![ER Diagram]([path_to_your_ER_diagram_image](https://drive.google.com/drive/folders/1yoASktidbXoCTd0T07ZdeHAgIP6LPlif))
 
 ### SQL Features
 - **Stored Procedures**: Over 15 stored procedures for operations like course enrollment, payment verification, and profile updates.
@@ -80,7 +80,7 @@ Include the ER diagram image (optional):
    ```
 
 ## Documentation
-For more details, refer to the [project report](./InNEED_Project_Report.pdf).
+For more details, refer to the [project report](https://drive.google.com/file/d/123HjiJv5J2zXACavRx3Qj5Um9wuSaLD3/view?usp=drive_link).
 
 ## Technologies Used
 - **MySQL** for database management.
