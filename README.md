@@ -50,9 +50,7 @@ Include the ER diagram image (optional):
 2. **Create the Database**:
    - Open MySQL Workbench or any other MySQL client.
    - Run the SQL script located in the `/sql-scripts` folder to set up the database schema:
-     ```sql
-     source path_to_sql_script.sql;
-     ```
+     [here](https://docs.google.com/document/d/1Yn_Vl_DnlwEwZ0mUWsEZAAhLHxsDNfIr/edit?usp=sharing&ouid=117613726400409974751&rtpof=true&sd=true).
 
 3. **Stored Procedures**:
    - After setting up the schema, execute the stored procedures for operations like `Sign_Up`, `BuyNow`, and `enrollstudent`.
