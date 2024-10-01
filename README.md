@@ -27,7 +27,7 @@ Each table is structured with appropriate data types and relationships to ensure
 
 ### ER Diagram
 Include the ER diagram image (optional):
-![ER Diagram]([path_to_your_ER_diagram_image](https://drive.google.com/drive/folders/1yoASktidbXoCTd0T07ZdeHAgIP6LPlif))
+![ER Diagram]([https://drive.google.com/drive/folders/1yoASktidbXoCTd0T07ZdeHAgIP6LPlif])
 
 ### SQL Features
 - **Stored Procedures**: Over 15 stored procedures for operations like course enrollment, payment verification, and profile updates.
