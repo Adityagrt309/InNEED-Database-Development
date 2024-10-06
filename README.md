@@ -44,7 +44,7 @@ Include the ER diagram image (optional):
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/InNEED-Database-Development.git
+   git clone https://github.com/Adityagrt309/InNEED-Database-Development.git
    ```
 
 2. **Create the Database**:
@@ -86,4 +86,4 @@ For more details, refer to the [project report](https://drive.google.com/file/d/
 - **MySQL Workbench** for database modeling and querying.
 
 ## Contact
-For any inquiries or collaboration, feel free to reach out to me via LinkedIn([(https://www.linkedin.com/in/aditya-singh-91573419a/)).
+For any inquiries or collaboration, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/aditya-singh-91573419a/)
